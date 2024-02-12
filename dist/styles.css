@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+nav {
+    display: flex;
+}
+button {
+    background: black;
+    color: white;
+    border-color: transparent;
+    cursor: pointer;
+    width: 33.3%;
+}
+p {
+    margin-left: 10px;
+}
